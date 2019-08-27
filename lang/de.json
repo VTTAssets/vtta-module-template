@@ -1,0 +1,6 @@
+{
+    "vtta-module-template.DefaultPlayerUploadDirectory.Name": "Standardverzeichnis für Spieler-Uploads",
+    "vtta-module-template.DefaultPlayerUploadDirectory.Hint": "Legt das Verzeichnis fest, in welchem Uploads von Spielern abgelegt werden sollen. Dieses Verzeichnis MUSS existieren, es wird nicht automatisch angelegt!",
+    "vtta-module-template.DefaultNPCUploadDirectory.Name": "Standardverzeichnis für NPC-Uploads",
+    "vtta-module-template.DefaultNPCUploadDirectory.Hint": "Legt das Verzeichnis fest, in welchem Uploads für NPCs abgelegt werden sollen. Dieses Verzeichnis MUSS existieren, es wird nicht automatisch angelegt!"
+}

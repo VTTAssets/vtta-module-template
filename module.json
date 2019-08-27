@@ -1,0 +1,23 @@
+{
+    "name": "vtta-module-template",
+    "title": "Virtual Tabletop Assets - Module Template",
+    "description": "You can clone this repository to jump-start your development of Foundry VTT modules.",
+    "version": "0.0.1",
+    "author": "Your name here",
+    "languages": {
+        "en": "lang/en.json",
+        "de": "lang/de.json"
+	},
+    "systems": ["dnd5e"],
+    "scripts": [
+        "./lib/index.js",
+        "./app/settings.js",
+        "./app/index.js",
+        "./app/main/index.js"
+    ],
+    "styles": ["./css/styles.css", "./app/main/styles.css"],
+    "packs": [],
+    "url": "https://www.vttassets.com/fvtt-module-developement",
+    "manifest": "https://www.vttassets.com/manifest/vtta-module-template",
+    "download": "https://www.vttassets.com/download/vtta-module-template"
+  }
